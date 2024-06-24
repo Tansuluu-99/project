@@ -1,0 +1,78 @@
+.container-img-1 img{
+    width: 1440px;
+    height: 550px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+    
+}
+
+.container-img img{
+    width: 1440px;
+    height: 80px;
+    top: 108px;
+    left: 73px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+   
+}
+
+.container-img-2 img{
+    width: 1440px;
+    height: 1018px;
+    top: 686px;
+    left: 45px;
+    padding: 28px 0px 0px 0px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+
+.container-img-3 img{
+    width: 1440px;
+    height: 606px;
+    top: 1704px;
+    left: 45px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+
+.container-img-4 img{
+    width: 1440px;
+    height: 663px;
+    top: 2310px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+
+.container-img-5 img{
+    width: 1350px;
+    height: 728px;
+    top: 2973px;
+    left: 45px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+
+.container-img-6 img{
+    width: 1440px;
+    height: 834px;
+    top: 3701px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+}
+
+.container-img-7 img{
+    width: 1440px;
+    height: 378px;
+    top: 4535px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 0 auto;
+
+}
